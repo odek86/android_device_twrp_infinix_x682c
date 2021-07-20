@@ -128,5 +128,6 @@ TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 
 # PB Torch
-PB_TORCH_PATH := /proc/qcom_flash
+#PB_TORCH_PATH := /sys/class/leds/flashlight
 PB_TORCH_MAX_BRIGHTNESS := 1
+PB_DISABLE_DEFAULT_TREBLE_COMP := true
