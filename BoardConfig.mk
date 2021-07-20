@@ -126,3 +126,7 @@ TW_EXCLUDE_TWRP_APP := true
 # Logcat
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
+
+# PB Torch
+PB_TORCH_PATH := /sys/devices/virtual/torch/torch/torch_level
+PB_TORCH_MAX_BRIGHTNESS := 1
