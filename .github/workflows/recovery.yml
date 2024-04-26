@@ -3,11 +3,11 @@ name: Building recovery
 on:
 #  release:
 #    types: [published]
-#  push:
-#    branches:
-#      - master
-#    paths:
-#      - '.config'
+  push:
+    branches:
+      - master
+    paths:
+      - '.config'
 #  schedule:
 #    - cron: 0 8 * * 5
   watch:
