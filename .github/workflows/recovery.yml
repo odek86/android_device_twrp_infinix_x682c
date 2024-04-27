@@ -16,7 +16,7 @@ on:
 env:
   MANIFEST: https://github.com/PitchBlackRecoveryProject/manifest_pb.git -b android-10.0
   DEVICE: X682C
-  DT_LINK: https://github.com/Infinix-G70/android_device_twrp_infinix_x682c.git -b pbrp
+  DT_LINK: https://github.com/odex86/android_device_twrp_infinix_x682c.git -b pbrp
   DT_PATH: device/infinix/X682C
   TARGET: recoveryimage
   TZ: Asia/Jakarta
