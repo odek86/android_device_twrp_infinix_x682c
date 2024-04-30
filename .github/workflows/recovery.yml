@@ -15,7 +15,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/Infinix-G70/android_device_twrp_infinix_x682c'
+        default: 'https://github.com/odex86/android_device_twrp_infinix_x682c'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
