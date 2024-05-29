@@ -24,7 +24,7 @@ $(call inherit-product, vendor/pb/config/common.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := X682C
-PRODUCT_NAME := omni_X682C
+PRODUCT_NAME := twrp_X682C
 PRODUCT_BRAND := Infinix
 PRODUCT_MODEL := Infinix Hot 10
 PRODUCT_MANUFACTURER := infinix
